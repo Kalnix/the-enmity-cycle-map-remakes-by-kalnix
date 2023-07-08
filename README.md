@@ -6,6 +6,8 @@ This is a map remake of the adventure The Enmity Cycle created by Paizo. You can
 These maps are designed for FoundryVTT with walls, windows, doors and lighting set up.
 If you would just like the maps, download them from the map folder. Each square is 150x150px
 
+This was designed and tested on v10 of Foundry but should work on v11 though you might need to use Regenerate Thumbnail on the scenes so that they have a thumbnaill
+
 Credit
 
 Paizo - For making these fantastic adventures. Some of the copyright/trademarks are owned by Paizo and used under their Community Use Policy. These maps were not created by, endorsed or approved by Paizo.
