@@ -1,0 +1,42 @@
+{
+  "id": "the-enmity-cycle-map-remakes-by-kalnix",
+  "title": "The Enmity Cycle Map Remakes by Kalnix",
+  "description": "Map remakes for the The Enmity Cycle adventure by Paizo.",
+  "url": "https://github.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix/tree/main",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10.303",
+    "verified": "10.303"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "4.12.8"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "The Enmity Cycle Map Remakes by Kalnix",
+      "type": "Scene",
+      "name": "the-enmity-cycle-map-remakes-by-kalnix",
+      "path": "packs/the-enmity-cycle-map-remakes-by-kalnix.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix/main/module.json",
+  "download": "https://github.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix/archive/refs/heads/main.zip"
+}
