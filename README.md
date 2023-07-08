@@ -1,7 +1,7 @@
 # the-enmity-cycle-map-remakes-by-kalnix
 **FoundryVTT module for The Enmity Cycle Remakes**
 
-This is a map remake of the adventure The Enmity Cycle created by Paizo. You can buy the book here [https://paizo.com/products/btq02arq?Pathfinder-Dark-Archive](https://paizo.com/products/btq02eiv?Pathfinder-Adventure-The-Enmity-Cycle) and it is needed to run the adventure as this module is only the maps and contains no creatures, treasures, journals etc.
+This is a map remake of the adventure The Enmity Cycle created by Paizo. You can buy the book here https://paizo.com/products/btq02eiv?Pathfinder-Adventure-The-Enmity-Cycle and it is needed to run the adventure as this module is only the maps and contains no creatures, treasures, journals etc.
 
 These maps are designed for FoundryVTT with walls, windows, doors and lighting set up.
 If you would just like the maps, download them from the map folder. Each square is 150x150px
