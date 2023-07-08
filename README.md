@@ -13,3 +13,5 @@ Paizo - For making these fantastic adventures. Some of the copyright/trademarks 
 DungeonDraft - The program I used to create the maps. https://dungeondraft.net/
 
 Crosshead - The assets used to make the maps. https://crossheadstudios.com/
+
+Krager's Shadow & Light Pack - Used for shadows and light in DungeonDraft https://cartographyassets.com/assets/7713/kragers-shadow-light-pack/
