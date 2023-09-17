@@ -1,42 +1,33 @@
 {
-  "id": "the-enmity-cycle-map-remakes-by-kalnix",
-  "title": "The Enmity Cycle Map Remakes by Kalnix",
-  "description": "Map remakes for the The Enmity Cycle adventure by Paizo.",
-  "url": "https://github.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix",
+  "id": "the-harrowing-map-remakes-by-kalnix",
+  "title": "The Harrowing Map Remakes by Kalnix",
   "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Map remakes of the Pathfinder 1st Edition adventure, The Harrowing. It is only the maps and you need the PDF to run the adventure which can be found here https://paizo.com/products/btpy8lv9?Pathfinder-Module-The-Harrowing",
   "authors": [
     {
       "name": "Kalnix",
+      "discord": "kalnix",
       "flags": {}
     }
   ],
-  "compatibility": {
-    "minimum": "10.303",
-    "verified": "10.303"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "pf2e",
-        "type": "system",
-        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "4.12.8"
-        }
-      }
-    ]
-  },
+  "url": "https://github.com/Kalnix/the-harrowing-map-remakes-by-kalnix",
   "packs": [
     {
-      "label": "The Enmity Cycle Map Remakes by Kalnix",
+      "name": "the-harrowing-map-remakes-by-kalnix",
+      "label": "The Harrowing Map Remakes by Kalnix",
+      "path": "packs/the-harrowing-map-remakes-by-kalnix",
       "type": "Scene",
-      "name": "the-enmity-cycle-map-remakes-by-kalnix",
-      "path": "packs/the-enmity-cycle-map-remakes-by-kalnix.db",
-      "system": "pf2e",
-      "private": false,
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix/main/module.json",
-  "download": "https://github.com/Kalnix/the-enmity-cycle-map-remakes-by-kalnix/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/Kalnix/the-harrowing-map-remakes-by-kalnix/main/module.json",
+  "download": "https://github.com/Kalnix/the-harrowing-map-remakes-by-kalnix/archive/refs/heads/main.zip"
 }
